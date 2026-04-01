@@ -67,6 +67,7 @@ What are the most common ratings on Netflix?
 
 
 🧠 SQL Skills Demonstrated
+
 Data Retrieval & Filtering
 Used SELECT, WHERE, IN, BETWEEN, LIKE, and logical operators to extract specific insights from the dataset
 Data Cleaning & Handling Missing Values
